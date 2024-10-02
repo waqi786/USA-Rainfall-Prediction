@@ -5,7 +5,7 @@
 This notebook explores a dataset featuring historical weather data across the United States to predict future rainfall. By leveraging various machine learning models and advanced data visualization techniques, it aims to uncover insights into weather patterns and trends affecting rainfall in different regions of the USA.
 
 
-**Key Features**
+**Key Features:**
 
 1. Data Exploration: Comprehensive analysis and visualization of weather variables like temperature, humidity, and precipitation.
 2. Feature Engineering: Construction of new features to enhance model predictions.
